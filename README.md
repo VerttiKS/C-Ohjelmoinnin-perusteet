@@ -1,2 +1,2 @@
-# vertti.keski-santti
-
+# this is in Finnish!
+Ensimmäisen C++ kurssin loppuprojekti
